@@ -3,7 +3,7 @@
   "resources": {
     "hash": "sha256-HoX1tuW8Lgef1lp/P/pDjx357Co+2u/u9Zahpkygfs4=",
     "runtime": {
-      "dotnet.6.0.28.x47bvsqcv7.js": "sha256-PYXBt6AuhzWXVEEyGsbAwIvVsAbcDs2FnKYIkVYqLqA=",
+      "dotnet.6.0.28.x47bvsqcv7.js": "sha256-rBCz42gkpiItiC3mf/yEw8gV+EzyUwpzakAdWKJ4+0E=",
       "dotnet.timezones.blat": "sha256-hKZ27N25m01CP4HR0RFvVj2dU0Cw2+EqatmI4zCXdHc=",
       "dotnet.wasm": "sha256-VD7u3/N8q7+pMx/XaLORp25orlrcpfL4FQuaefRkUGs=",
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
